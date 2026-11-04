@@ -41,31 +41,48 @@ code_checks_path: './docs/code-checks.json'
 # keywords to search, optional "categories" limit the arxiv categories (eg. cs.CV)
 # of one keyword; a top-level "categories" would apply to all keywords
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
-    "Gaussian Splatting":
-        filters: ["Gaussian Splatting", "3DGS", "2DGS", "4DGS"]
-    "3D Reconstruction":
-        filters: ["VGGT", "DUSt3R", "MASt3R",
-                  "Feed-forward 3D Reconstruction", "Feed-forward Reconstruction",
-                  "Multi-view 3D Reconstruction", "3D Foundation Model"]
-    "World Model":
-        filters: ["World Model", "World Models", "World Simulator"]
-        # "world model" is also a common term in NLP / databases etc., limit the arxiv categories
-        categories: ["cs.CV", "cs.RO", "cs.AI", "cs.LG", "cs.CL"]
-    "VLA and VLN":
-        filters: ["Vision Language Action", "Vision Language Navigation",
-                  "Vision and Language Navigation", "VLN"]
+    # "SLAM": 
+    #     filters: ["SLAM", "Visual Odometry"]
+    # "SFM":
+    #     filters: ["SFM", "Structure from Motion"]
+    # "Visual Localization":
+    #     filters: ["Visual Localization","Camera Localization",
+    #               "Camera Re-localisation","Loop Closure Detection",
+    #               "visual place recognition","image retrieval"]
+    # "Keypoint Detection":
+    #     filters: ["Keypoint Detection", "Feature Descriptor"]
+    # "Image Matching":
+    #     filters: ["Image Matching", "Keypoint Matching", 
+    #               "Line Segment Detection", "Local Feature Matching"]
+    # "NeRF":
+    #     filters: ["NeRF"]
+    # "Gaussian Splatting":
+    #     filters: ["Gaussian Splatting", "3DGS", "2DGS", "4DGS"]
+    # "3D Reconstruction":
+    #     filters: ["VGGT", "DUSt3R", "MASt3R",
+    #               "Feed-forward 3D Reconstruction", "Feed-forward Reconstruction",
+    #               "Multi-view 3D Reconstruction", "3D Foundation Model"]
+    # "World Model":
+    #     filters: ["World Model", "World Models", "World Simulator"]
+    #     # "world model" is also a common term in NLP / databases etc., limit the arxiv categories
+    #     categories: ["cs.CV", "cs.RO", "cs.AI", "cs.LG", "cs.CL"]
+    # "VLA and VLN":
+    #     filters: ["Vision Language Action", "Vision Language Navigation",
+    #               "Vision and Language Navigation", "VLN"]
+    "Text-to-Motion":
+        filters:
+            - "text-to-motion"
+            - "text to motion"
+            - "text-driven motion"
+            - "text-conditioned motion"
+            - "language-guided motion"
+        categories: ["cs.CV", "cs.AI", "cs.LG", "cs.RO"]
+
+    "Human Motion Generation":
+        filters:
+            - "human motion generation"
+            - "human motion synthesis"
+            - "motion diffusion"
+            - "motion editing"
+            - "motion control"
+        categories: ["cs.CV", "cs.AI", "cs.LG", "cs.RO"]
