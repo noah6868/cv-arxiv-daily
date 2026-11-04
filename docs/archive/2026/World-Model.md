@@ -1,8 +1,17 @@
 ## World Model (2026)
-> 29 papers, [archive 2026](./README.md)
+> 38 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data**|Rafal Karp et.al.|[2611.03626](http://arxiv.org/abs/2611.03626)|<span class="null">—</span>|
+|**2026-11-02**|**Toward Uncertainty-Aware, Physics-Grounded Human World Models**|Yufei Zhang et.al.|[2611.03428](http://arxiv.org/abs/2611.03428)|<span class="null">—</span>|
+|**2026-11-02**|**An intelligent satellite must do nothing well**|Fabrizio Pilone et.al.|[2611.02922](http://arxiv.org/abs/2611.02922)|<span class="null">—</span>|
+|**2026-11-02**|**Predictive Safety Guardrails Do Not Always Make LLM Agents Safer**|Weixiang Zhao et.al.|[2611.02815](http://arxiv.org/abs/2611.02815)|<span class="null">—</span>|
+|**2026-11-02**|**Creating Hybrid Interactive Narrative Systems with LLM: From Formal Description to Evaluation**|Jules Clerc et.al.|[2611.02807](http://arxiv.org/abs/2611.02807)|<span class="null">—</span>|
+|**2026-11-02**|**History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models**|Hangyi Kuang et.al.|[2611.02782](http://arxiv.org/abs/2611.02782)|**[link](https://github.com/ziplab/History-Forcing)**|
+|**2026-11-02**|**Right Ranking, Wrong Scale: Reproducing the Robotic World Model's Dynamics Model and Testing the Uncertainty of Its Follow-up**|Joyjeet Singh et.al.|[2611.02699](http://arxiv.org/abs/2611.02699)|<span class="null">—</span>|
+|**2026-11-02**|**Human-Oriented World Model**|Saihui Hou et.al.|[2611.02690](http://arxiv.org/abs/2611.02690)|<span class="null">—</span>|
+|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Zhan Chen et.al.|[2611.02526](http://arxiv.org/abs/2611.02526)|<span class="null">—</span>|
 |**2026-10-29**|**world2vec: Mechanistic world models through latent dynamics learning**|Tobias Schmidt et.al.|[2610.40637](http://arxiv.org/abs/2610.40637)|**[link](https://github.com/mlnjsh/ai-research-radar)**|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|**[link](https://github.com/cvlab-kaist/L3G-World)**|
 |**2026-10-29**|**Fight World Model: Customizable Combat through Visual Interaction Proxies**|Jiahua Li et.al.|[2610.40607](http://arxiv.org/abs/2610.40607)|**[link](https://github.com/mlnjsh/ai-research-radar)**|

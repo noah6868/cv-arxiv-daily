@@ -1,8 +1,12 @@
 ## 3D Reconstruction (2026)
-> 20 papers, [archive 2026](./README.md)
+> 24 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras**|Guebin Hwang et.al.|[2611.02884](http://arxiv.org/abs/2611.02884)|<span class="null">—</span>|
+|**2026-11-01**|**Lie Routing Vision Language Models for View-Robust 3D Understanding**|Jingjun Yi et.al.|[2611.02306](http://arxiv.org/abs/2611.02306)|<span class="null">—</span>|
+|**2026-10-31**|**A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks**|Xinyi Shi et.al.|[2611.00482](http://arxiv.org/abs/2611.00482)|<span class="null">—</span>|
+|**2026-10-30**|**Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D**|Gaige Wang et.al.|[2610.41231](http://arxiv.org/abs/2610.41231)|<span class="null">—</span>|
 |**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|**[link](https://github.com/cvlab-kaist/L3G-World)**|
 |**2026-10-29**|**PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions**|Yue Gong et.al.|[2610.40453](http://arxiv.org/abs/2610.40453)|<span class="null">—</span>|
 |**2026-10-28**|**SparseTokenGS: Gaussian-based Sparse-View CBCT Reconstruction via Reusable Token Pool**|Zihan Deng et.al.|[2610.38360](http://arxiv.org/abs/2610.38360)|**[link](https://github.com/FrankDengAI/SparseTokenGS)**|

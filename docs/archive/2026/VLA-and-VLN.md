@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 20 papers, [archive 2026](./README.md)
+> 30 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Rollout then Recycle: 3,718 Labelled Real-Robot Episodes from Benchmarking 7 Policies on 12 Tasks**|Praveen Selvaraj et.al.|[2611.03168](http://arxiv.org/abs/2611.03168)|<span class="null">—</span>|
+|**2026-11-02**|**VLALagBench: Understanding When and Why VLA Inference Latency Matters**|Qi Wen et.al.|[2611.03103](http://arxiv.org/abs/2611.03103)|**[link](https://github.com/codestrongestx/VLALagBench)**|
+|**2026-11-02**|**Beyond Policy Patches: Distilling RL Specialists into Vision-Language-Action Policies**|Zhennan Jiang et.al.|[2611.02777](http://arxiv.org/abs/2611.02777)|<span class="null">—</span>|
+|**2026-11-02**|**HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation**|Gyeonghun Kim et.al.|[2611.02660](http://arxiv.org/abs/2611.02660)|<span class="null">—</span>|
+|**2026-11-02**|**RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild**|Tan Sang Nguyen et.al.|[2611.02497](http://arxiv.org/abs/2611.02497)|<span class="null">—</span>|
+|**2026-11-01**|**SVD-Prune: Spectral Vision Token Pruning under Extreme Compression**|Yvon Apedo et.al.|[2611.02284](http://arxiv.org/abs/2611.02284)|**[link](https://github.com/anoncvlab/svdPrune)**|
+|**2026-11-01**|**When Delay Meets Drift: Physical Safety of Robot Foundation Models Is a Cross-Layer Problem**|Liangkai Liu et.al.|[2611.02101](http://arxiv.org/abs/2611.02101)|<span class="null">—</span>|
+|**2026-11-01**|**Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs**|Seungjun Yu et.al.|[2611.02076](http://arxiv.org/abs/2611.02076)|**[link](https://github.com/sjyu001/SARD)**|
+|**2026-11-01**|**ODE Policy: Robot Learning via Action Dynamics, Not Actions**|Jindou Jia et.al.|[2611.01729](http://arxiv.org/abs/2611.01729)|<span class="null">—</span>|
+|**2026-11-01**|**Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models**|Chan Park et.al.|[2611.01713](http://arxiv.org/abs/2611.01713)|<span class="null">—</span>|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Pranjal Aggarwal et.al.|[2610.40565](http://arxiv.org/abs/2610.40565)|<span class="null">—</span>|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Xiangyu Xu et.al.|[2610.40532](http://arxiv.org/abs/2610.40532)|**[link](https://github.com/hu-zlatan/embodied-ai-radar)**|
 |**2026-10-29**|**Improving Fine-Grained Manipulation through Demonstration Expansion and Execution Design**|Jingxu Gu et.al.|[2610.40430](http://arxiv.org/abs/2610.40430)|<span class="null">—</span>|
