@@ -82,7 +82,7 @@ keywords:
         filters:
             - "human motion generation"
             - "human motion synthesis"
-            - "motion diffusion"
-            - "motion editing"
-            - "motion control"
+            - "human motion diffusion"
+            - "human motion editing"
+            - "controllable human motion generation"
         categories: ["cs.CV", "cs.AI", "cs.LG", "cs.RO"]
