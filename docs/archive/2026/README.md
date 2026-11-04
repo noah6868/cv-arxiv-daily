@@ -1,5 +1,5 @@
 ## Archive 2026
-> 868 papers
+> 887 papers
 
 |Keyword|Papers|
 |---|---|
@@ -13,4 +13,6 @@
 |[3D Reconstruction](./3D-Reconstruction.md)|24|
 |[World Model](./World-Model.md)|38|
 |[VLA and VLN](./VLA-and-VLN.md)|30|
+|[Text-to-Motion](./Text-to-Motion.md)|9|
+|[Human Motion Generation](./Human-Motion-Generation.md)|10|
 

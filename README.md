@@ -15,6 +15,8 @@
     <li><a href=#3d-reconstruction>3D Reconstruction</a></li>
     <li><a href=#world-model>World Model</a></li>
     <li><a href=#vla-and-vln>VLA and VLN</a></li>
+    <li><a href=#text-to-motion>Text-to-Motion</a></li>
+    <li><a href=#human-motion-generation>Human Motion Generation</a></li>
   </ol>
 </details>
 
@@ -22,14 +24,14 @@
 
 > All papers, one markdown per year and keyword.
 
-|Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[2026](./docs/archive/2026/README.md)|[200](./docs/archive/2026/SLAM.md)|[122](./docs/archive/2026/SFM.md)|[191](./docs/archive/2026/Visual-Localization.md)|[42](./docs/archive/2026/Keypoint-Detection.md)|[64](./docs/archive/2026/Image-Matching.md)|[127](./docs/archive/2026/NeRF.md)|[30](./docs/archive/2026/Gaussian-Splatting.md)|[24](./docs/archive/2026/3D-Reconstruction.md)|[38](./docs/archive/2026/World-Model.md)|[30](./docs/archive/2026/VLA-and-VLN.md)|
-|[2025](./docs/archive/2025/README.md)|[507](./docs/archive/2025/SLAM.md)|[647](./docs/archive/2025/SFM.md)|[1845](./docs/archive/2025/Visual-Localization.md)|[262](./docs/archive/2025/Keypoint-Detection.md)|[1066](./docs/archive/2025/Image-Matching.md)|[366](./docs/archive/2025/NeRF.md)|||||
-|[2024](./docs/archive/2024/README.md)|[317](./docs/archive/2024/SLAM.md)|[163](./docs/archive/2024/SFM.md)|[378](./docs/archive/2024/Visual-Localization.md)|[67](./docs/archive/2024/Keypoint-Detection.md)|[95](./docs/archive/2024/Image-Matching.md)|[693](./docs/archive/2024/NeRF.md)|||||
-|[2023](./docs/archive/2023/README.md)|[79](./docs/archive/2023/SLAM.md)|[75](./docs/archive/2023/SFM.md)|[351](./docs/archive/2023/Visual-Localization.md)|[93](./docs/archive/2023/Keypoint-Detection.md)|[91](./docs/archive/2023/Image-Matching.md)|[583](./docs/archive/2023/NeRF.md)|||||
-|[2022](./docs/archive/2022/README.md)|[304](./docs/archive/2022/SLAM.md)|[54](./docs/archive/2022/SFM.md)|[258](./docs/archive/2022/Visual-Localization.md)|[76](./docs/archive/2022/Keypoint-Detection.md)|[70](./docs/archive/2022/Image-Matching.md)|[150](./docs/archive/2022/NeRF.md)|||||
-|[2021](./docs/archive/2021/README.md)|[51](./docs/archive/2021/SLAM.md)|[19](./docs/archive/2021/SFM.md)|[14](./docs/archive/2021/Visual-Localization.md)|[29](./docs/archive/2021/Keypoint-Detection.md)|[23](./docs/archive/2021/Image-Matching.md)||||||
+|Year|SLAM|SFM|Visual Localization|Keypoint Detection|Image Matching|NeRF|Gaussian Splatting|3D Reconstruction|World Model|VLA and VLN|Text-to-Motion|Human Motion Generation|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|[2026](./docs/archive/2026/README.md)|[200](./docs/archive/2026/SLAM.md)|[122](./docs/archive/2026/SFM.md)|[191](./docs/archive/2026/Visual-Localization.md)|[42](./docs/archive/2026/Keypoint-Detection.md)|[64](./docs/archive/2026/Image-Matching.md)|[127](./docs/archive/2026/NeRF.md)|[30](./docs/archive/2026/Gaussian-Splatting.md)|[24](./docs/archive/2026/3D-Reconstruction.md)|[38](./docs/archive/2026/World-Model.md)|[30](./docs/archive/2026/VLA-and-VLN.md)|[9](./docs/archive/2026/Text-to-Motion.md)|[10](./docs/archive/2026/Human-Motion-Generation.md)|
+|[2025](./docs/archive/2025/README.md)|[507](./docs/archive/2025/SLAM.md)|[647](./docs/archive/2025/SFM.md)|[1845](./docs/archive/2025/Visual-Localization.md)|[262](./docs/archive/2025/Keypoint-Detection.md)|[1066](./docs/archive/2025/Image-Matching.md)|[366](./docs/archive/2025/NeRF.md)|||||||
+|[2024](./docs/archive/2024/README.md)|[317](./docs/archive/2024/SLAM.md)|[163](./docs/archive/2024/SFM.md)|[378](./docs/archive/2024/Visual-Localization.md)|[67](./docs/archive/2024/Keypoint-Detection.md)|[95](./docs/archive/2024/Image-Matching.md)|[693](./docs/archive/2024/NeRF.md)|||||||
+|[2023](./docs/archive/2023/README.md)|[79](./docs/archive/2023/SLAM.md)|[75](./docs/archive/2023/SFM.md)|[351](./docs/archive/2023/Visual-Localization.md)|[93](./docs/archive/2023/Keypoint-Detection.md)|[91](./docs/archive/2023/Image-Matching.md)|[583](./docs/archive/2023/NeRF.md)|||||||
+|[2022](./docs/archive/2022/README.md)|[304](./docs/archive/2022/SLAM.md)|[54](./docs/archive/2022/SFM.md)|[258](./docs/archive/2022/Visual-Localization.md)|[76](./docs/archive/2022/Keypoint-Detection.md)|[70](./docs/archive/2022/Image-Matching.md)|[150](./docs/archive/2022/NeRF.md)|||||||
+|[2021](./docs/archive/2021/README.md)|[51](./docs/archive/2021/SLAM.md)|[19](./docs/archive/2021/SFM.md)|[14](./docs/archive/2021/Visual-Localization.md)|[29](./docs/archive/2021/Keypoint-Detection.md)|[23](./docs/archive/2021/Image-Matching.md)||||||||
 
 ## SLAM
 
@@ -1432,6 +1434,39 @@
 |**2026-10-09**|**GuidedNav: Shaping Vision-Language Navigation Representations through Pre-action Attention and Spatial Guidance**|Jingyu Guo et.al.|[2610.13122](http://arxiv.org/abs/2610.13122)|null|
 |**2026-10-09**|**Forward Dynamics Models**|Zipei Ma et.al.|[2610.13117](http://arxiv.org/abs/2610.13117)|null|
 |**2026-10-09**|**Robust Vision-Language Navigation with Awareness of Instruction-Execution Progress**|Jiagan Huang et.al.|[2610.13104](http://arxiv.org/abs/2610.13104)|null|
+
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+
+## Text-to-Motion
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-11-02**|**IMUdrape: Generating Garment-Mounted Virtual IMU Data from Text through Physics-Based Cloth Simulation**|Zikang Leng et.al.|[2611.02393](http://arxiv.org/abs/2611.02393)|null|
+|**2026-11-02**|**AgiWorld: An Agentic Video World Model for Building Persistent Worlds**|Shaoheng Fang et.al.|[2611.02341](http://arxiv.org/abs/2611.02341)|null|
+|**2026-11-01**|**Zero-shot evaluation of open vision-language models as System 1 decision models on radiology tasks**|Bradley J Erickson et.al.|[2611.01631](http://arxiv.org/abs/2611.01631)|null|
+|**2026-11-01**|**FOCUS: Closed-Loop Attention Feedback for Efficient Vision-Language Understanding**|Akul Santhosh et.al.|[2611.01438](http://arxiv.org/abs/2611.01438)|null|
+|**2026-10-31**|**FilmTogether: Cinematic Video Generation from Low-Cost Inputs**|Shiying Zhang et.al.|[2611.00899](http://arxiv.org/abs/2611.00899)|null|
+|**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
+|**2026-10-30**|**Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos**|Wendong Bu et.al.|[2610.41877](http://arxiv.org/abs/2610.41877)|null|
+|**2026-10-30**|**Hawkeye: Reading Illegible Text with Vision Language Models**|Brian Tang et.al.|[2610.41254](http://arxiv.org/abs/2610.41254)|null|
+|**2026-10-29**|**Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception**|Kazuki Takahashi et.al.|[2610.39314](http://arxiv.org/abs/2610.39314)|null|
+
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+
+## Human Motion Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-11-01**|**IMPACT: Image-Conditioned Motion with Physics-Aware Collision and Trajectory Guidance for Video Generation**|Shiwei Yang et.al.|[2611.01372](http://arxiv.org/abs/2611.01372)|null|
+|**2026-10-31**|**UniCaMo: Unified Camera and Motion Control for Video Diffusion Models**|Long Vu et.al.|[2611.00810](http://arxiv.org/abs/2611.00810)|null|
+|**2026-10-28**|**ETA-Motion: Efficient Topology-Agnostic Motion Diffusion via Sparse Joint Learning**|Seoyoung Hwang et.al.|[2610.38259](http://arxiv.org/abs/2610.38259)|null|
+|**2026-10-28**|**StepControl: Long-Horizon Human Motion Generation from Foot-Contact Schedules**|Hojun Jang et.al.|[2610.38153](http://arxiv.org/abs/2610.38153)|null|
+|**2026-10-26**|**JevVLA: Jev-Inspired Energy-Based Adaptation for Vision-Language-Action Policies**|Wei Wang et.al.|[2610.35010](http://arxiv.org/abs/2610.35010)|**[link](https://github.com/ZJU4EmbodiedAI/JevVLA)**|
+|**2026-10-24**|**HA-DiPO: Diffusion Policy Optimization for Heterogeneous Cooperative Transport**|Xuebin Li et.al.|[2610.33584](http://arxiv.org/abs/2610.33584)|null|
+|**2026-10-24**|**A Differentiable Chassis Safety Layer for Intelligent Vehicle Motion Control**|Lu Xiong et.al.|[2610.33476](http://arxiv.org/abs/2610.33476)|null|
+|**2026-10-23**|**PPO vs. SAC: A Comparative Study for Cooperative Motion Control of Dual-Arm Space Robots**|Nasim Fallahiarezoodar et.al.|[2610.32034](http://arxiv.org/abs/2610.32034)|null|
+|**2026-10-22**|**WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models**|Chenxi Song et.al.|[2610.31640](http://arxiv.org/abs/2610.31640)|null|
+|**2026-10-21**|**PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization**|Maximilian Stölzle et.al.|[2610.30500](http://arxiv.org/abs/2610.30500)|null|
 
 <p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
