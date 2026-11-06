@@ -7,7 +7,7 @@
 |**2026-10-17**|**MOMO: Human Motion from Moving Sounds**|Deli Cai et.al.|[2610.24522](http://arxiv.org/abs/2610.24522)|<span class="null">—</span>|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|<span class="null">—</span>|
 |**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|<span class="null">—</span>|
-|**2026-10-09**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
+|**2026-11-03**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
 |**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|<span class="null">—</span>|
 |**2026-10-19**|**Streaming Multi-Track Timeline Control for 3D Human Motion Generation**|Yangsong Zhang et.al.|[2610.03873](http://arxiv.org/abs/2610.03873)|<span class="null">—</span>|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|<span class="null">—</span>|

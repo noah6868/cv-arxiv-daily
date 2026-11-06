@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.04</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.06</p>
 
 <nav class="toc">
 <a href="#text-to-motion">Text-to-Motion</a>
@@ -16,12 +16,22 @@ layout: default
 
 |Year|Text-to-Motion|Human Motion Generation|
 |---|---|---|
-|[2026](./archive/2026/README.md)|[9](./archive/2026/Text-to-Motion.md)|[10](./archive/2026/Human-Motion-Generation.md)|
+|[2026](./archive/2026/README.md)|[19](./archive/2026/Text-to-Motion.md)|[10](./archive/2026/Human-Motion-Generation.md)|
 
 <h2 id="text-to-motion">Text-to-Motion</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**MV-Sign: Multi-View 3D Motion Integration and Enhanced Text-to-Motion Conditioning for Sign Language Production**|Singyu Muk et.al.|[2611.07811](http://arxiv.org/abs/2611.07811)|<span class="null">—</span>|
+|**2026-11-05**|**OptIMerge: Optimization-Based Merging of Diffusion Models**|Viraj Shah et.al.|[2611.07543](http://arxiv.org/abs/2611.07543)|<span class="null">—</span>|
+|**2026-11-04**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al.|[2611.06781](http://arxiv.org/abs/2611.06781)|<span class="null">—</span>|
+|**2026-11-04**|**EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL**|Mingzhe Zheng et.al.|[2611.06518](http://arxiv.org/abs/2611.06518)|**[link](https://github.com/Tencent-Hunyuan/EmoReward)**|
+|**2026-11-04**|**FlashRelight: Portrait Video Relighting with Dynamic Lighting**|Jiahui Sheng et.al.|[2611.06355](http://arxiv.org/abs/2611.06355)|**[link](https://github.com/vivoCameraResearch/FlashRelight)**|
+|**2026-11-04**|**Beyond Scene Shortcuts: Action-Centric Video-Text Alignment for Fine-Grained Action Understanding**|Zhiliang Zhu et.al.|[2611.06302](http://arxiv.org/abs/2611.06302)|<span class="null">—</span>|
+|**2026-11-04**|**Multi-Resident Data Association in Smart Homes via MDP Modeling and Behavior Cloning**|Xi Chen et.al.|[2611.06296](http://arxiv.org/abs/2611.06296)|<span class="null">—</span>|
+|**2026-11-03**|**Möbius: A Unified Motion-Language Model Bridging Understanding and Generation**|Jiazhi Shu et.al.|[2611.05279](http://arxiv.org/abs/2611.05279)|<span class="null">—</span>|
+|**2026-11-03**|**ReXMo: End-to-End Video Character Replacement with Expression and Motion Preservation**|Hualiang Wei et.al.|[2611.04633](http://arxiv.org/abs/2611.04633)|<span class="null">—</span>|
+|**2026-11-02**|**FlowBench: Counterfactual Imagination Training for Spatial Intelligence**|Yifan Liu et.al.|[2611.03937](http://arxiv.org/abs/2611.03937)|**[link](https://github.com/liuyifan22/FlowBench)**|
 |**2026-11-02**|**IMUdrape: Generating Garment-Mounted Virtual IMU Data from Text through Physics-Based Cloth Simulation**|Zikang Leng et.al.|[2611.02393](http://arxiv.org/abs/2611.02393)|<span class="null">—</span>|
 |**2026-11-02**|**AgiWorld: An Agentic Video World Model for Building Persistent Worlds**|Shaoheng Fang et.al.|[2611.02341](http://arxiv.org/abs/2611.02341)|<span class="null">—</span>|
 |**2026-11-01**|**Zero-shot evaluation of open vision-language models as System 1 decision models on radiology tasks**|Bradley J Erickson et.al.|[2611.01631](http://arxiv.org/abs/2611.01631)|<span class="null">—</span>|
@@ -40,7 +50,7 @@ layout: default
 |**2026-10-17**|**MOMO: Human Motion from Moving Sounds**|Deli Cai et.al.|[2610.24522](http://arxiv.org/abs/2610.24522)|<span class="null">—</span>|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|<span class="null">—</span>|
 |**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|<span class="null">—</span>|
-|**2026-10-09**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
+|**2026-11-03**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
 |**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|<span class="null">—</span>|
 |**2026-10-19**|**Streaming Multi-Track Timeline Control for 3D Human Motion Generation**|Yangsong Zhang et.al.|[2610.03873](http://arxiv.org/abs/2610.03873)|<span class="null">—</span>|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|<span class="null">—</span>|
