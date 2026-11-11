@@ -1,8 +1,16 @@
 ## Text-to-Motion (2026)
-> 19 papers, [archive 2026](./README.md)
+> 27 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Few-Step Streaming Video Generation via Condition Shifting**|Deyuan Liu et.al.|[2611.14033](http://arxiv.org/abs/2611.14033)|<span class="null">—</span>|
+|**2026-11-10**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|**[link](https://github.com/Sun-Happy-YKX/FlashMotion)**|
+|**2026-11-10**|**Rhythmic-Semantic Co-Speech Gestures for Emotional Dialogue in Robots**|Christian Arzate Cruz et.al.|[2611.13472](http://arxiv.org/abs/2611.13472)|<span class="null">—</span>|
+|**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|**[link](https://github.com/PoirotJin/kinora)**|
+|**2026-11-08**|**Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation**|Yunheng Wang et.al.|[2611.11554](http://arxiv.org/abs/2611.11554)|<span class="null">—</span>|
+|**2026-11-06**|**Improving the Diffusability of Motion Tokenizer**|Guanhe Huang et.al.|[2611.10160](http://arxiv.org/abs/2611.10160)|<span class="null">—</span>|
+|**2026-11-06**|**A Unified Inertial Encoder for Human and Humanoid Motion**|Yutian Chen et.al.|[2611.10137](http://arxiv.org/abs/2611.10137)|<span class="null">—</span>|
+|**2026-11-06**|**Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds**|Xinjie Lin et.al.|[2611.09017](http://arxiv.org/abs/2611.09017)|<span class="null">—</span>|
 |**2026-11-05**|**MV-Sign: Multi-View 3D Motion Integration and Enhanced Text-to-Motion Conditioning for Sign Language Production**|Singyu Muk et.al.|[2611.07811](http://arxiv.org/abs/2611.07811)|<span class="null">—</span>|
 |**2026-11-05**|**OptIMerge: Optimization-Based Merging of Diffusion Models**|Viraj Shah et.al.|[2611.07543](http://arxiv.org/abs/2611.07543)|<span class="null">—</span>|
 |**2026-11-04**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al.|[2611.06781](http://arxiv.org/abs/2611.06781)|<span class="null">—</span>|

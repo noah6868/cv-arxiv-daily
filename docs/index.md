@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p class="updated"><span class="dot"></span>Updated on 2026.11.06</p>
+<p class="updated"><span class="dot"></span>Updated on 2026.11.11</p>
 
 <nav class="toc">
 <a href="#text-to-motion">Text-to-Motion</a>
@@ -16,12 +16,20 @@ layout: default
 
 |Year|Text-to-Motion|Human Motion Generation|
 |---|---|---|
-|[2026](./archive/2026/README.md)|[19](./archive/2026/Text-to-Motion.md)|[10](./archive/2026/Human-Motion-Generation.md)|
+|[2026](./archive/2026/README.md)|[27](./archive/2026/Text-to-Motion.md)|[13](./archive/2026/Human-Motion-Generation.md)|
 
 <h2 id="text-to-motion">Text-to-Motion</h2>
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Few-Step Streaming Video Generation via Condition Shifting**|Deyuan Liu et.al.|[2611.14033](http://arxiv.org/abs/2611.14033)|<span class="null">—</span>|
+|**2026-11-10**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|**[link](https://github.com/Sun-Happy-YKX/FlashMotion)**|
+|**2026-11-10**|**Rhythmic-Semantic Co-Speech Gestures for Emotional Dialogue in Robots**|Christian Arzate Cruz et.al.|[2611.13472](http://arxiv.org/abs/2611.13472)|<span class="null">—</span>|
+|**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|**[link](https://github.com/PoirotJin/kinora)**|
+|**2026-11-08**|**Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation**|Yunheng Wang et.al.|[2611.11554](http://arxiv.org/abs/2611.11554)|<span class="null">—</span>|
+|**2026-11-06**|**Improving the Diffusability of Motion Tokenizer**|Guanhe Huang et.al.|[2611.10160](http://arxiv.org/abs/2611.10160)|<span class="null">—</span>|
+|**2026-11-06**|**A Unified Inertial Encoder for Human and Humanoid Motion**|Yutian Chen et.al.|[2611.10137](http://arxiv.org/abs/2611.10137)|<span class="null">—</span>|
+|**2026-11-06**|**Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds**|Xinjie Lin et.al.|[2611.09017](http://arxiv.org/abs/2611.09017)|<span class="null">—</span>|
 |**2026-11-05**|**MV-Sign: Multi-View 3D Motion Integration and Enhanced Text-to-Motion Conditioning for Sign Language Production**|Singyu Muk et.al.|[2611.07811](http://arxiv.org/abs/2611.07811)|<span class="null">—</span>|
 |**2026-11-05**|**OptIMerge: Optimization-Based Merging of Diffusion Models**|Viraj Shah et.al.|[2611.07543](http://arxiv.org/abs/2611.07543)|<span class="null">—</span>|
 |**2026-11-04**|**Semantic Residual Vector Quantization for Sign Language Generation**|Chang Liu et.al.|[2611.06781](http://arxiv.org/abs/2611.06781)|<span class="null">—</span>|
@@ -46,11 +54,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|**[link](https://github.com/Sun-Happy-YKX/FlashMotion)**|
+|**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|**[link](https://github.com/PoirotJin/kinora)**|
+|**2026-11-06**|**Improving the Diffusability of Motion Tokenizer**|Guanhe Huang et.al.|[2611.10160](http://arxiv.org/abs/2611.10160)|<span class="null">—</span>|
 |**2026-10-28**|**StepControl: Long-Horizon Human Motion Generation from Foot-Contact Schedules**|Hojun Jang et.al.|[2610.38153](http://arxiv.org/abs/2610.38153)|<span class="null">—</span>|
 |**2026-10-17**|**MOMO: Human Motion from Moving Sounds**|Deli Cai et.al.|[2610.24522](http://arxiv.org/abs/2610.24522)|<span class="null">—</span>|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|<span class="null">—</span>|
 |**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|<span class="null">—</span>|
-|**2026-11-03**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
+|**2026-11-06**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
 |**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|<span class="null">—</span>|
 |**2026-10-19**|**Streaming Multi-Track Timeline Control for 3D Human Motion Generation**|Yangsong Zhang et.al.|[2610.03873](http://arxiv.org/abs/2610.03873)|<span class="null">—</span>|
 |**2026-10-02**|**Parasitic Co-Denoising: Unlocking 3D Human Motion Generation in a Frozen Video Diffusion Model**|Yunjiao Zhou et.al.|[2610.03047](http://arxiv.org/abs/2610.03047)|<span class="null">—</span>|
