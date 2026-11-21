@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,12 +16,22 @@
 
 |Year|Text-to-Motion|Human Motion Generation|
 |---|---|---|
-|[2026](./docs/archive/2026/README.md)|[31](./docs/archive/2026/Text-to-Motion.md)|[13](./docs/archive/2026/Human-Motion-Generation.md)|
+|[2026](./docs/archive/2026/README.md)|[41](./docs/archive/2026/Text-to-Motion.md)|[13](./docs/archive/2026/Human-Motion-Generation.md)|
 
 ## Text-to-Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|null|
+|**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
+|**2026-11-19**|**SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video**|Bowen Xue et.al.|[2611.25340](http://arxiv.org/abs/2611.25340)|null|
+|**2026-11-19**|**MoGloss: Joint Motion and Pseudo-Gloss Pretraining for American Sign Language Understanding**|Rui Hong et.al.|[2611.25333](http://arxiv.org/abs/2611.25333)|null|
+|**2026-11-18**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|null|
+|**2026-11-18**|**EVF-Bench: A Comprehensive Benchmark for E-commerce Visual Effects in Video Generation**|Run Ling et.al.|[2611.24116](http://arxiv.org/abs/2611.24116)|null|
+|**2026-11-18**|**SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation**|Nabeela Khan et.al.|[2611.23944](http://arxiv.org/abs/2611.23944)|null|
+|**2026-11-17**|**VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs**|Chengqian Ma et.al.|[2611.23153](http://arxiv.org/abs/2611.23153)|**[link](https://github.com/step-out/VIVID)**|
+|**2026-11-17**|**The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?**|Basavaraj R M et.al.|[2611.23127](http://arxiv.org/abs/2611.23127)|**[link](https://github.com/Basavarajearlybird/GIB-200K)**|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|null|
 |**2026-11-13**|**SemRAG: Semantic-Guided Sentence-Level Retrieval-Augmented Sign Language Production**|Xiao Liu et.al.|[2611.18189](http://arxiv.org/abs/2611.18189)|null|
 |**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|null|
 |**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
@@ -54,7 +64,7 @@
 |**2026-10-30**|**Hawkeye: Reading Illegible Text with Vision Language Models**|Brian Tang et.al.|[2610.41254](http://arxiv.org/abs/2610.41254)|null|
 |**2026-10-29**|**Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception**|Kazuki Takahashi et.al.|[2610.39314](http://arxiv.org/abs/2610.39314)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
 
 ## Human Motion Generation
 
@@ -74,7 +84,7 @@
 |**2026-10-02**|**Rethinking Fixed Temporal Grids: Frequency-Disentangled Motion Generation**|Yunjiao Zhou et.al.|[2610.03012](http://arxiv.org/abs/2610.03012)|null|
 |**2026-10-27**|**SuperMotion: Source-Preserving Denoising for Text-Driven Human Motion Editing**|Fa-Ting Hong et.al.|[2610.01517](http://arxiv.org/abs/2610.01517)|null|
 
-<p align=right>(<a href=#updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

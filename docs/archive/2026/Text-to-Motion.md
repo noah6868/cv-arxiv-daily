@@ -1,8 +1,18 @@
 ## Text-to-Motion (2026)
-> 31 papers, [archive 2026](./README.md)
+> 41 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|<span class="null">—</span>|
+|**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|<span class="null">—</span>|
+|**2026-11-19**|**SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video**|Bowen Xue et.al.|[2611.25340](http://arxiv.org/abs/2611.25340)|<span class="null">—</span>|
+|**2026-11-19**|**MoGloss: Joint Motion and Pseudo-Gloss Pretraining for American Sign Language Understanding**|Rui Hong et.al.|[2611.25333](http://arxiv.org/abs/2611.25333)|<span class="null">—</span>|
+|**2026-11-18**|**Probing Physics in Motion Diffusion Models Against Their Own Estimate**|Saeed Ghorbani et.al.|[2611.24423](http://arxiv.org/abs/2611.24423)|<span class="null">—</span>|
+|**2026-11-18**|**EVF-Bench: A Comprehensive Benchmark for E-commerce Visual Effects in Video Generation**|Run Ling et.al.|[2611.24116](http://arxiv.org/abs/2611.24116)|<span class="null">—</span>|
+|**2026-11-18**|**SIGNTOK: A Text-Aligned Continuous Pose Tokenizer for Sign Language Generation**|Nabeela Khan et.al.|[2611.23944](http://arxiv.org/abs/2611.23944)|<span class="null">—</span>|
+|**2026-11-17**|**VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs**|Chengqian Ma et.al.|[2611.23153](http://arxiv.org/abs/2611.23153)|**[link](https://github.com/step-out/VIVID)**|
+|**2026-11-17**|**The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?**|Basavaraj R M et.al.|[2611.23127](http://arxiv.org/abs/2611.23127)|**[link](https://github.com/Basavarajearlybird/GIB-200K)**|
+|**2026-11-17**|**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance**|Minh Tran et.al.|[2611.22645](http://arxiv.org/abs/2611.22645)|<span class="null">—</span>|
 |**2026-11-13**|**SemRAG: Semantic-Guided Sentence-Level Retrieval-Augmented Sign Language Production**|Xiao Liu et.al.|[2611.18189](http://arxiv.org/abs/2611.18189)|<span class="null">—</span>|
 |**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|<span class="null">—</span>|
 |**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|<span class="null">—</span>|
