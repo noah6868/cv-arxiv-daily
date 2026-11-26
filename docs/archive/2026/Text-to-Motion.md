@@ -1,8 +1,18 @@
 ## Text-to-Motion (2026)
-> 41 papers, [archive 2026](./README.md)
+> 51 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**SceneDesigner++: A Unified 9-DoF Pose Control Framework for T2I and T2V Generation**|Xincheng Shuai et.al.|[2611.34461](http://arxiv.org/abs/2611.34461)|<span class="null">—</span>|
+|**2026-11-25**|**ProxyGenBench: Benchmarking Proxy-Guided Video Generation**|Zhenchen Tang et.al.|[2611.34457](http://arxiv.org/abs/2611.34457)|<span class="null">—</span>|
+|**2026-11-25**|**Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model**|Zanyi Wang et.al.|[2611.34435](http://arxiv.org/abs/2611.34435)|<span class="null">—</span>|
+|**2026-11-25**|**ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics**|Taewoo Kim et.al.|[2611.34027](http://arxiv.org/abs/2611.34027)|<span class="null">—</span>|
+|**2026-11-25**|**MoSk: A Unified Motion-Skeleton Foundation Model for Human Motion Understanding and Generation**|Yun Chen et.al.|[2611.34022](http://arxiv.org/abs/2611.34022)|<span class="null">—</span>|
+|**2026-11-25**|**Ask to Land: Learning a Mask-Conditioned Open-Vocabulary Landing Policy via Differentiable Physics**|Fangyu Sun et.al.|[2611.34020](http://arxiv.org/abs/2611.34020)|<span class="null">—</span>|
+|**2026-11-25**|**MotionODE: Enhancing Autoregressive Text-to-Motion Generation with Continuous-Depth Modeling**|Zhaoxin Fan et.al.|[2611.33826](http://arxiv.org/abs/2611.33826)|<span class="null">—</span>|
+|**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Zhaoxin Fan et.al.|[2611.33819](http://arxiv.org/abs/2611.33819)|<span class="null">—</span>|
+|**2026-11-25**|**Spectral Optimal Transport for Dynamics-Aware Sign Language Generation**|Nabeela Khan et.al.|[2611.33818](http://arxiv.org/abs/2611.33818)|<span class="null">—</span>|
+|**2026-11-25**|**SEEL: Towards End-to-End 3D Sign Generation with Language Models**|Ronglai Zuo et.al.|[2611.33588](http://arxiv.org/abs/2611.33588)|<span class="null">—</span>|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|<span class="null">—</span>|
 |**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|<span class="null">—</span>|
 |**2026-11-19**|**SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video**|Bowen Xue et.al.|[2611.25340](http://arxiv.org/abs/2611.25340)|<span class="null">—</span>|

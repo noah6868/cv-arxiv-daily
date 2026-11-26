@@ -1,4 +1,4 @@
-## Updated on 2026.11.21
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,12 +16,22 @@
 
 |Year|Text-to-Motion|Human Motion Generation|
 |---|---|---|
-|[2026](./docs/archive/2026/README.md)|[41](./docs/archive/2026/Text-to-Motion.md)|[13](./docs/archive/2026/Human-Motion-Generation.md)|
+|[2026](./docs/archive/2026/README.md)|[51](./docs/archive/2026/Text-to-Motion.md)|[14](./docs/archive/2026/Human-Motion-Generation.md)|
 
 ## Text-to-Motion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**SceneDesigner++: A Unified 9-DoF Pose Control Framework for T2I and T2V Generation**|Xincheng Shuai et.al.|[2611.34461](http://arxiv.org/abs/2611.34461)|null|
+|**2026-11-25**|**ProxyGenBench: Benchmarking Proxy-Guided Video Generation**|Zhenchen Tang et.al.|[2611.34457](http://arxiv.org/abs/2611.34457)|null|
+|**2026-11-25**|**Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model**|Zanyi Wang et.al.|[2611.34435](http://arxiv.org/abs/2611.34435)|null|
+|**2026-11-25**|**ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics**|Taewoo Kim et.al.|[2611.34027](http://arxiv.org/abs/2611.34027)|null|
+|**2026-11-25**|**MoSk: A Unified Motion-Skeleton Foundation Model for Human Motion Understanding and Generation**|Yun Chen et.al.|[2611.34022](http://arxiv.org/abs/2611.34022)|null|
+|**2026-11-25**|**Ask to Land: Learning a Mask-Conditioned Open-Vocabulary Landing Policy via Differentiable Physics**|Fangyu Sun et.al.|[2611.34020](http://arxiv.org/abs/2611.34020)|null|
+|**2026-11-25**|**MotionODE: Enhancing Autoregressive Text-to-Motion Generation with Continuous-Depth Modeling**|Zhaoxin Fan et.al.|[2611.33826](http://arxiv.org/abs/2611.33826)|null|
+|**2026-11-25**|**MMotion: Collaborative Cross-Scale Memory for Text-to-Motion Generation**|Zhaoxin Fan et.al.|[2611.33819](http://arxiv.org/abs/2611.33819)|null|
+|**2026-11-25**|**Spectral Optimal Transport for Dynamics-Aware Sign Language Generation**|Nabeela Khan et.al.|[2611.33818](http://arxiv.org/abs/2611.33818)|null|
+|**2026-11-25**|**SEEL: Towards End-to-End 3D Sign Generation with Language Models**|Ronglai Zuo et.al.|[2611.33588](http://arxiv.org/abs/2611.33588)|null|
 |**2026-11-19**|**JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own**|Shibo Zhou et.al.|[2611.26503](http://arxiv.org/abs/2611.26503)|null|
 |**2026-11-19**|**Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation**|Yipan Xu et.al.|[2611.26098](http://arxiv.org/abs/2611.26098)|null|
 |**2026-11-19**|**SceneAnything: Agentic Reconstruction of Large-Scale Mesh Scenes from a Single Video**|Bowen Xue et.al.|[2611.25340](http://arxiv.org/abs/2611.25340)|null|
@@ -64,19 +74,20 @@
 |**2026-10-30**|**Hawkeye: Reading Illegible Text with Vision Language Models**|Brian Tang et.al.|[2610.41254](http://arxiv.org/abs/2610.41254)|null|
 |**2026-10-29**|**Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception**|Kazuki Takahashi et.al.|[2610.39314](http://arxiv.org/abs/2610.39314)|null|
 
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## Human Motion Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics**|Taewoo Kim et.al.|[2611.34027](http://arxiv.org/abs/2611.34027)|null|
 |**2026-11-11**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|null|
 |**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|**[link](https://github.com/PoirotJin/kinora)**|
 |**2026-11-06**|**Improving the Diffusability of Motion Tokenizer**|Guanhe Huang et.al.|[2611.10160](http://arxiv.org/abs/2611.10160)|null|
 |**2026-10-28**|**StepControl: Long-Horizon Human Motion Generation from Foot-Contact Schedules**|Hojun Jang et.al.|[2610.38153](http://arxiv.org/abs/2610.38153)|null|
 |**2026-10-17**|**MOMO: Human Motion from Moving Sounds**|Deli Cai et.al.|[2610.24522](http://arxiv.org/abs/2610.24522)|null|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|null|
-|**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|null|
+|**2026-11-23**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|null|
 |**2026-11-06**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|null|
 |**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|null|
 |**2026-10-19**|**Streaming Multi-Track Timeline Control for 3D Human Motion Generation**|Yangsong Zhang et.al.|[2610.03873](http://arxiv.org/abs/2610.03873)|null|
@@ -84,7 +95,7 @@
 |**2026-10-02**|**Rethinking Fixed Temporal Grids: Frequency-Disentangled Motion Generation**|Yunjiao Zhou et.al.|[2610.03012](http://arxiv.org/abs/2610.03012)|null|
 |**2026-10-27**|**SuperMotion: Source-Preserving Denoising for Text-Driven Human Motion Editing**|Fa-Ting Hong et.al.|[2610.01517](http://arxiv.org/abs/2610.01517)|null|
 
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

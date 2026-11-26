@@ -1,15 +1,16 @@
 ## Human Motion Generation (2026)
-> 13 papers, [archive 2026](./README.md)
+> 14 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**ContextHands: Completing Hand Motion with Learned Context and Joint-Specific Body Kinematics**|Taewoo Kim et.al.|[2611.34027](http://arxiv.org/abs/2611.34027)|<span class="null">—</span>|
 |**2026-11-11**|**FlashMotion: Ultra-Fast Long-Term 3D Motion Generation**|Kaixing Yang et.al.|[2611.13626](http://arxiv.org/abs/2611.13626)|<span class="null">—</span>|
 |**2026-11-08**|**Kinora: A Versioned Workflow for Text-to-Motion Generation, Robot Retargeting, and Interactive Validation**|Fangcheng Jin et.al.|[2611.11601](http://arxiv.org/abs/2611.11601)|**[link](https://github.com/PoirotJin/kinora)**|
 |**2026-11-06**|**Improving the Diffusability of Motion Tokenizer**|Guanhe Huang et.al.|[2611.10160](http://arxiv.org/abs/2611.10160)|<span class="null">—</span>|
 |**2026-10-28**|**StepControl: Long-Horizon Human Motion Generation from Foot-Contact Schedules**|Hojun Jang et.al.|[2610.38153](http://arxiv.org/abs/2610.38153)|<span class="null">—</span>|
 |**2026-10-17**|**MOMO: Human Motion from Moving Sounds**|Deli Cai et.al.|[2610.24522](http://arxiv.org/abs/2610.24522)|<span class="null">—</span>|
 |**2026-10-13**|**Learning Robot Policies for Whole-Body Mobility Assistance via Dynamic Human Motion Generation**|Shikun Ban et.al.|[2610.17750](http://arxiv.org/abs/2610.17750)|<span class="null">—</span>|
-|**2026-10-09**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|<span class="null">—</span>|
+|**2026-11-23**|**Image Diffusion Models Are Good 3D Human Motion Generators**|Siyuan Yang et.al.|[2610.14254](http://arxiv.org/abs/2610.14254)|<span class="null">—</span>|
 |**2026-11-06**|**ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation**|Shun Kato et.al.|[2610.13549](http://arxiv.org/abs/2610.13549)|<span class="null">—</span>|
 |**2026-10-09**|**Sonic-AMG: Streaming Human Motion Generation from Spatial Audio**|Jingcheng Ni et.al.|[2610.13300](http://arxiv.org/abs/2610.13300)|<span class="null">—</span>|
 |**2026-10-19**|**Streaming Multi-Track Timeline Control for 3D Human Motion Generation**|Yangsong Zhang et.al.|[2610.03873](http://arxiv.org/abs/2610.03873)|<span class="null">—</span>|
